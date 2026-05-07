@@ -11,4 +11,4 @@
 >    * 停止播放：立即中斷當前正在播放的音效。
 >    * 結束程式：按下「結束程式」按鈕後，系統會自動跳出**防呆確認視窗**進行二次確認，避免因誤觸而導致程式意外關閉，確保操作的安全性。
 
-<img width="317" height="156" alt="Image" src="https://github.com/user-attachments/assets/9415cff4-2081-4894-8d57-0a637ef47886" />
+<img width="312" height="159" alt="Image" src="https://github.com/user-attachments/assets/d27a1bff-c392-4245-9e9c-5e18b17b060a" />
